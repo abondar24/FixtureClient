@@ -1,5 +1,3 @@
-# Fixture client
-
 Problem Description
 ===================
 A small web server is provied.  It is written in
